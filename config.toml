@@ -1,0 +1,9 @@
+baseURL = "https://bartilg.github.io/weekly-log/"
+languageCode = "en-us"
+title = "Weekly Accomplishments"
+theme = "PaperMod"
+
+[params]
+  homeInfoParams = { Title = "Weekly Accomplishments", Content = "Logs of builds, insights, and migrations." }
+  ShowReadingTime = false
+  ShowBreadCrumbs = false

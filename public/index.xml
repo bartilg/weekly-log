@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Weekly Accomplishments</title>
+    <link>http://localhost:1313/weekly-log/</link>
+    <description>Recent content on Weekly Accomplishments</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/weekly-log/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week of 2025-06-16</title>
+      <link>http://localhost:1313/weekly-log/posts/2025-06-16/</link>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/weekly-log/posts/2025-06-16/</guid>
+      <description>&lt;h2 id=&#34;-work&#34;&gt;🛠️ Work&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Began Development of Zoom audit microservice in Go&lt;/li&gt;
+&lt;li&gt;Iniated project to consolidate organization domains&lt;/li&gt;
+&lt;li&gt;Continued standardization of network policies across sites&lt;/li&gt;
+&lt;li&gt;Audited endpoint security posture&lt;/li&gt;
+&lt;li&gt;Diagnosed DNS issues on local gateway, forcing alignment with controller firewall to enable configuration&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-learning&#34;&gt;🧠 Learning&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Explored Go error handling, goroutines, and semaphores&lt;/li&gt;
+&lt;li&gt;Explored benefits of converting resume to LaTeX&lt;/li&gt;
+&lt;li&gt;Explored optimatal approach to querying MS Graph API in Go&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-infra&#34;&gt;💻 Infra&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Installed Cilium CNI to Kubernetes cluster&lt;/li&gt;
+&lt;li&gt;Explored Migration of TrueNAS Core to TrueNAS Scale&lt;/li&gt;
+&lt;li&gt;Deployed initial pod to local Kubernetes cluster to validate functionality&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-academic&#34;&gt;🎓 Academic&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Reviewed peer feedback for Terradrift Masters project&lt;/li&gt;
+&lt;li&gt;Finalized draft of Terradrift proposal document&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
