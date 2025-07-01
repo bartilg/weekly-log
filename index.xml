@@ -1,4 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Weekly Accomplishments</title><link>https://bartilg.github.io/weekly-log/</link><description>Recent content on Weekly Accomplishments</description><generator>Hugo -- 0.147.9</generator><language>en-us</language><lastBuildDate>Mon, 16 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://bartilg.github.io/weekly-log/index.xml" rel="self" type="application/rss+xml"/><item><title>Week of 2025-06-16</title><link>https://bartilg.github.io/weekly-log/posts/2025-06-16/</link><pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate><guid>https://bartilg.github.io/weekly-log/posts/2025-06-16/</guid><description>&lt;h2 id="-work">🛠️ Work&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Weekly Accomplishments</title><link>https://bartilg.github.io/weekly-log/</link><description>Recent content on Weekly Accomplishments</description><generator>Hugo -- 0.147.9</generator><language>en-us</language><lastBuildDate>Mon, 30 Jun 2025 19:53:24 -0700</lastBuildDate><atom:link href="https://bartilg.github.io/weekly-log/index.xml" rel="self" type="application/rss+xml"/><item><title>2025 06 23</title><link>https://bartilg.github.io/weekly-log/posts/2025-06-23/</link><pubDate>Mon, 30 Jun 2025 19:53:24 -0700</pubDate><guid>https://bartilg.github.io/weekly-log/posts/2025-06-23/</guid><description>&lt;h2 id="-work">🛠️ Work&lt;/h2>
+&lt;ul>
+&lt;li>Completed Data sync logic for Zoom Microservice, enabling full sync + JIT provisioning&lt;/li>
+&lt;li>Wrote basics for MS graph client in go&lt;/li>
+&lt;li>Wrote Phone bill auditing scripts, automatically grouping by cost center and ensuring financial accurancy&lt;/li>
+&lt;li>Located Table conflicts in IT ERP system&lt;/li>
+&lt;li>Continued standardization of network policies across sites&lt;/li>
+&lt;li>Continued domain registration migration&lt;/li>
+&lt;li>Gathered server rack specifications for new office&lt;/li>
+&lt;/ul>
+&lt;h2 id="-learning">🧠 Learning&lt;/h2>
+&lt;ul>
+&lt;li>Explored Go error handling, goroutines, and semaphores&lt;/li>
+&lt;li>Converted Resume to LaTeX&lt;/li>
+&lt;li>Started Weekly Progress Tracker&lt;/li>
+&lt;/ul>
+&lt;h2 id="-infra">💻 Infra&lt;/h2>
+&lt;ul>
+&lt;li>Migrated NAS from TrueNAS Core to TrueNAS Scale&lt;/li>
+&lt;li>Explored benefits of upgrading NAS hardware&lt;/li>
+&lt;li>Explored best local hosting configuration for PostGresQL or MariaDB (K8s vs Docker vs on-NAS)&lt;/li>
+&lt;/ul>
+&lt;h2 id="-academic">🎓 Academic&lt;/h2>
+&lt;ul>
+&lt;li>Made Terradrift Presentation&lt;/li>
+&lt;li>Recorded Terradrift proposal&lt;/li>
+&lt;li>Submitted Terradrift proposal&lt;/li>
+&lt;/ul></description></item><item><title>Week of 2025-06-16</title><link>https://bartilg.github.io/weekly-log/posts/2025-06-16/</link><pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate><guid>https://bartilg.github.io/weekly-log/posts/2025-06-16/</guid><description>&lt;h2 id="-work">🛠️ Work&lt;/h2>
 &lt;ul>
 &lt;li>Began Development of Zoom audit microservice in Go&lt;/li>
 &lt;li>Iniated project to consolidate organization domains&lt;/li>
