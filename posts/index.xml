@@ -1,4 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on Weekly Accomplishments</title><link>https://bartilg.github.io/weekly-log/posts/</link><description>Recent content in Posts on Weekly Accomplishments</description><generator>Hugo -- 0.147.9</generator><language>en-us</language><lastBuildDate>Mon, 30 Jun 2025 19:53:24 -0700</lastBuildDate><atom:link href="https://bartilg.github.io/weekly-log/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>2025 06 23</title><link>https://bartilg.github.io/weekly-log/posts/2025-06-23/</link><pubDate>Mon, 30 Jun 2025 19:53:24 -0700</pubDate><guid>https://bartilg.github.io/weekly-log/posts/2025-06-23/</guid><description>&lt;h2 id="-work">🛠️ Work&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on Weekly Accomplishments</title><link>https://bartilg.github.io/weekly-log/posts/</link><description>Recent content in Posts on Weekly Accomplishments</description><generator>Hugo -- 0.148.0</generator><language>en-us</language><lastBuildDate>Tue, 08 Jul 2025 19:53:40 -0700</lastBuildDate><atom:link href="https://bartilg.github.io/weekly-log/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>2025 07 01</title><link>https://bartilg.github.io/weekly-log/posts/2025-07-01/</link><pubDate>Tue, 08 Jul 2025 19:53:40 -0700</pubDate><guid>https://bartilg.github.io/weekly-log/posts/2025-07-01/</guid><description>&lt;h2 id="-work">🛠️ Work&lt;/h2>
+&lt;ul>
+&lt;li>Investigated RDP access using Entra SSO&lt;/li>
+&lt;/ul>
+&lt;h2 id="-learning">🧠 Learning&lt;/h2>
+&lt;ul>
+&lt;li>Explored relationship between AWS Lambda, Lambda functions, and Lambda Calculus&lt;/li>
+&lt;li>Reviewed personal finances&lt;/li>
+&lt;/ul>
+&lt;h2 id="-infra">💻 Infra&lt;/h2>
+&lt;ul>
+&lt;li>Evaluated Self-Hosting options for PostGresQL + InfluxDB - Decided to host on NAS&lt;/li>
+&lt;li>Purchased NAS hardware upgrades&lt;/li>
+&lt;li>Located issue in Cilium Helm deployment to K8s - repaird&lt;/li>
+&lt;li>Configured Metallb in K8s&lt;/li>
+&lt;/ul>
+&lt;h2 id="-academic">🎓 Academic&lt;/h2>
+&lt;ul>
+&lt;li>Started next class&lt;/li>
+&lt;li>Submitted discussion posts&lt;/li>
+&lt;li>Wrote first chapter summary&lt;/li>
+&lt;/ul></description></item><item><title>2025 06 23</title><link>https://bartilg.github.io/weekly-log/posts/2025-06-23/</link><pubDate>Mon, 30 Jun 2025 19:53:24 -0700</pubDate><guid>https://bartilg.github.io/weekly-log/posts/2025-06-23/</guid><description>&lt;h2 id="-work">🛠️ Work&lt;/h2>
 &lt;ul>
 &lt;li>Completed Data sync logic for Zoom Microservice, enabling full sync + JIT provisioning&lt;/li>
 &lt;li>Wrote basics for MS graph client in go&lt;/li>
